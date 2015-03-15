@@ -1,6 +1,6 @@
 {
   "name": "fd-insert-after",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "insert after a DOM element in a functional way.",
   "main": "index.js",
   "scripts": {
