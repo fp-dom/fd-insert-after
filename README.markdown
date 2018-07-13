@@ -15,10 +15,11 @@ Let the DOM be like:
 ```html
 <div id="parentElement">
   <span id="childElement">foo bar</span>
-</div>```
+</div>
+```
 
 
-```js
+```javascript
 let insertAfter = require('fd-insert-after');
 
 let sp1 = elem("span","meow")
